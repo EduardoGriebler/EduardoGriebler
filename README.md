@@ -24,6 +24,8 @@ Estas são as tecnologias que estudei e apliquei em projetos:
 </p>
 <br/>
 
+---
+
 ### 📈 Estatísticas
 
 <p>
