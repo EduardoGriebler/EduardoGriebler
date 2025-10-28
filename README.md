@@ -26,21 +26,20 @@ Estas são as tecnologias que estudei e apliquei em projetos:
 
 ### 📈 Estatísticas
 
-<table valign="top" border="0" cellpadding="0" cellspacing="10">
-  <tr>
-    <td>
-      <img
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=EduardoGriebler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"
-      />
-    </td>
-    <td>
-      <img
-        alt="GitHub Top Langs"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGriebler&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
-      />
-    </td>
-  </tr>
-</table>
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=EduardoGriebler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&cache_bust=1"
+    />
+
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGriebler&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    />    
+</p>
