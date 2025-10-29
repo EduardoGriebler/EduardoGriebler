@@ -7,7 +7,6 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, com conhecimento 
 Busco uma oportunidade de estágio para aplicar minhas capacidades, meu forte interesse em aprendizado contínuo e minha disposição para dominar novas tecnologias.
 
 ---
-
 ### 💻 Linguagens e Tecnologias
 
 Estas são as tecnologias que estudei e apliquei em projetos:
@@ -30,18 +29,16 @@ Estas são as tecnologias que estudei e apliquei em projetos:
 
 <p>
   <img
-    align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
+    style="float: left; padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=EduardoGriebler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&cache_bust=1"
     />
 
   <img
-    align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGriebler&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    style="float: left;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGriebler&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&cache_bust=8"
     />    
 </p>
