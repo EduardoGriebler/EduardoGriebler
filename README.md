@@ -14,6 +14,7 @@ Estas são as tecnologias que estudei e apliquei em projetos:
 <p align="left">
   <img alt="C#" title="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="WinForms" title="WinForms (.NET)" src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Power Apps" title="Power Apps" src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
   <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,4 +30,4 @@ Estas são as tecnologias que estudei e apliquei em projetos:
 
 <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=EduardoGriebler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&cache_bust=1" />
 
-<img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGriebler&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&cache_bust=8" />
+<img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGriebler&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&cache_bust=9" />
